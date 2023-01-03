@@ -1,0 +1,3 @@
+# tugas2_kripto
+NAMA : SITTI  NUR HALIZA
+NIM  : E1E120051
