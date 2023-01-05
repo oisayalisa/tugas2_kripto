@@ -17,11 +17,3 @@ for i in range(256):
     s[j] = temp
 print()
 print("s = ",s)
-
-
-
-
-
-
-
-
